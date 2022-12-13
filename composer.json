@@ -11,8 +11,8 @@
         "laravel permission"
     ],
     "require": {
-        "php": "^7.2.5",
-        "laravel/framework": "^5.5|^6.0|^7.0|^8.0",
+        "php": "*",
+        "laravel/framework": "*",
         "spatie/laravel-permission": "^2.37|^3.0"
     },
     "require-dev": {
